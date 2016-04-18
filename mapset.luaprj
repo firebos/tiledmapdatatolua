@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="mapset.luaprj" >
+    <Filter Name="mapset" >
+        <LuaFile RelativePath=".\alldata.lua" />
+        <LuaFile RelativePath=".\setmapAllData.lua" />
+        <LuaFile RelativePath=".\worldmap.lua" />
+    </Filter>
+</Project>
